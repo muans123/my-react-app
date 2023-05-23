@@ -1,0 +1,8 @@
+.header {
+  background-color: rgba(255, 228, 196, 0.78);
+}
+.header .header-message {
+  margin: 0 auto;
+  width: -moz-fit-content;
+  width: fit-content;
+}/*# sourceMappingURL=style.css.map */
