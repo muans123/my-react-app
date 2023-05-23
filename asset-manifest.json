@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.a58cd572.css",
+    "main.js": "/my-react-app/static/js/main.d06314ed.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/my-react-app/static/media/Inter-VariableFont_slnt,wght.afdb8a07907da21452bf.ttf",
+    "static/media/background1.png": "/my-react-app/static/media/background1.b8ced82c3f47e2da9434.png",
+    "index.html": "/my-react-app/index.html",
+    "main.a58cd572.css.map": "/my-react-app/static/css/main.a58cd572.css.map",
+    "main.d06314ed.js.map": "/my-react-app/static/js/main.d06314ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58cd572.css",
+    "static/js/main.d06314ed.js"
+  ]
+}
